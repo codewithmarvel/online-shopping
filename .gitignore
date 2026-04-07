@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Dependency directories
+/vendor/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Project-specific ignores
+/product_images/*
+!/product_images/.gitkeep
